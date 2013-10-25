@@ -5,7 +5,7 @@ var path = require('path'),
     config;
 
 config = {
-    // ### Development **(default)**   
+    // ### Development **(default)**     
     development: {
         // The url to use when providing links to the site, E.g. in RSS and email.
         url: 'http://my-ghost-blog.com',
